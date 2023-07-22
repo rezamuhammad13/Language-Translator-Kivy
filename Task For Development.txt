@@ -1,9 +1,0 @@
-There are several features that I want to add to the application update later :
-
-1. Add icon to copy,voice,and clear button
-2. Add threading or multiprocessing features so that when translating text it doesn't freeze the GUI
-3. Add window icon
-4. Convert kivy to apk so it can play in android
-5. Disable or hide console when running the application (Exe file)
-
-if anyone wants to help please teach me about how to solve the problem above
