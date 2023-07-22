@@ -1,5 +1,11 @@
 # ReTranslate-Language-Translator
  Language translator tool GUI app built with Kivy python and google translate API
+ 
+
+# How To Use :
+- You can customize this application by download or editing the app.py on your own
+- You can use this application in windows by downloading the dist folder and run the translate.exe file
+  
 
  # Feature :
  
